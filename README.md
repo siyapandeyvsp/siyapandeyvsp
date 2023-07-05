@@ -1,5 +1,5 @@
-### Hi there, I am Siya! Welcome to my coding world 👋
-You are about to witness my coding journey since the beginning 😎
+### Hi there, I am Siya!  👋
+
 
 ![image](https://user-images.githubusercontent.com/85756788/195896099-3bf51aa0-4805-49ba-85cb-fe486bd34c15.png)
 
