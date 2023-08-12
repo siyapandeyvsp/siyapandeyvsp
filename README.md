@@ -29,3 +29,5 @@ Here are some ideas to get you started:-->
 My Holopin Badges
 
 [![@siyapandeyvsp's Holopin board](https://holopin.me/siyapandeyvsp)](https://holopin.io/@siyapandeyvsp)
+
+[![siyapandeyvsp's GitHub | Stats](https://stats.quine.sh/siyapandeyvsp/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=siyapandeyvsp)
