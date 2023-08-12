@@ -31,3 +31,5 @@ My Holopin Badges
 [![@siyapandeyvsp's Holopin board](https://holopin.me/siyapandeyvsp)](https://holopin.io/@siyapandeyvsp)
 
 [![siyapandeyvsp's GitHub | Stats](https://stats.quine.sh/siyapandeyvsp/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=siyapandeyvsp)
+
+[![siyapandeyvsp's GitHub | Topics](https://stats.quine.sh/siyapandeyvsp/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=siyapandeyvsp)
