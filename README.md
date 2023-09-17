@@ -18,11 +18,8 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on ... Full Stack Development
-- 🌱 I’m currently learning ... React.js
-- 👯 I’m looking to collaborate on ... MERN Projects and cool UI Designs
-- 🤔 I’m looking for help with ... Python Django Framework
-- 💬 Ask me about ... Development , Designing, Blogging and Research on Geeky stuff
+ Improving my MERN Stack Development Skills by building projects , Passionate about Data Science and Machine Learning .
+
 <!--- 📫 How to reach me: ...
 - 😄 Pronouns: ...-->- ⚡ Fun fact: ...I learned more during my holidays before masters than my entire BCA graduation😁😋
 
