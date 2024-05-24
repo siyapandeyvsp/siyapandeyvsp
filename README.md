@@ -8,18 +8,20 @@ MERN Stack Web Developer
 
 Here , I'm updating a list for small basic projects that React Beginner can start with to develop understanding of basic concepts: 
 
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siyapandeyvsp&repo=employee-project)](https://github.com/siyapandeyvsp/employee-project)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=simple-sqlite)](https://github.com/madushadhanushka/simple-sqlite)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siyapandeyvsp&repo=quiz-app)](https://github.com/siyapandeyvsp/quiz-app)
 
-[![ReadMe Card](https://employee-project-five.vercel.app/)](https://github.com/siyapandeyvsp/employee-project.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siyapandeyvsp&repo=designX)](https://github.com/siyapandeyvsp/designX)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siyapandeyvsp&repo=react-tailwind-calender)](https://github.com/siyapandeyvsp/react-tailwind-calender)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siyapandeyvsp&repo=Python_Data_Science)](https://github.com/siyapandeyvsp/Python_Data_Science)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siyapandeyvsp&repo=devtown-learning)](https://github.com/siyapandeyvsp/devtown-learning)
 
-
+Some Out of the blue Data Science Learning : 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siyapandeyvsp&repo=Python_Data_Science)](https://github.com/siyapandeyvsp/Python_Data_Science)
 
 <a href="https://www.linkedin.com/in/siya-pandey/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/siya.devs/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
