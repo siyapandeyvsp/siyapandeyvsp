@@ -1,12 +1,14 @@
 ### Hi there, I am Siya!  👋
 MERN Stack Web Developer 
-Passionate about Data Science and Machine Learning .
+
 
 ![image](https://github.com/siyapandeyvsp/siyapandeyvsp/assets/85756788/8c181b23-677c-4d64-ac1d-03c184b5a3dd)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siyapandeyvsp&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siyapandeyvsp&repo=CODSOFT)](https://github.com/siyapandeyvsp/CODSOFT)
+Here , I'm updating a list for small basic projects that React Beginner can start with to develop understanding of basic concepts: 
+
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siyapandeyvsp&repo=react-tailwind-calender)](https://github.com/siyapandeyvsp/react-tailwind-calender)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siyapandeyvsp&repo=Python_Data_Science)](https://github.com/siyapandeyvsp/Python_Data_Science)
