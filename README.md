@@ -8,6 +8,10 @@ MERN Stack Web Developer
 
 Here , I'm updating a list for small basic projects that React Beginner can start with to develop understanding of basic concepts: 
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siyapandeyvsp&repo=employee-project)](https://github.com/siyapandeyvsp/employee-project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=simple-sqlite)](https://github.com/madushadhanushka/simple-sqlite)
+
+
 [![ReadMe Card](https://employee-project-five.vercel.app/)](https://github.com/siyapandeyvsp/employee-project.git)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siyapandeyvsp&repo=react-tailwind-calender)](https://github.com/siyapandeyvsp/react-tailwind-calender)
