@@ -17,6 +17,7 @@ Here , I'm updating a list for small basic projects that React Beginner can star
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siyapandeyvsp&repo=react-tailwind-calender)](https://github.com/siyapandeyvsp/react-tailwind-calender)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siyapandeyvsp&repo=ePub_generator)](https://github.com/siyapandeyvsp/ePub_generator) 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siyapandeyvsp&repo=devtown-learning)](https://github.com/siyapandeyvsp/devtown-learning)
 
